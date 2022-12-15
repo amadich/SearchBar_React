@@ -1,0 +1,61 @@
+.divinput_api input {
+   position: relative;
+   width: 50%;
+   display: table;
+   margin: auto;
+   z-index: +2;
+}
+.divinput_api {
+   margin-top: 2em;
+}
+#container_api {
+   border-top: 2px solid firebrick;
+   border: 1px solid #999;
+   width: 50%;
+   margin: auto;
+   height: 300px;
+   max-height: 300px;
+   overflow-y: auto;
+   border-radius: 10px;
+   background-color: rgb(251, 248, 253);
+}
+.obj {
+   max-width: 50%;
+   display: table;
+   margin-left: 2em;
+   margin-top: 5em;
+}
+.obj_img {
+   display: inline-block;
+   border: 1px solid #222;
+   width: 100px;
+   height: 150px;
+   background: url(../images/eps/0.png) no-repeat;
+   background-position: center center;
+   background-size: cover;
+   margin: 1em;
+}
+.obj_p {
+  margin-top: -8em;
+  margin-left: 10em;
+}
+
+
+
+
+
+
+
+
+
+::-webkit-scrollbar {
+   width: 5px;
+ }
+ ::-webkit-scrollbar-track {
+   background: #f47ef8;
+   border-radius: 50px;
+ }
+ ::-webkit-scrollbar-thumb {
+   background: #580a63;
+   border-radius: 50px;
+  }

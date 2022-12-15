@@ -5,7 +5,7 @@ a Just Mini Search Bar With React Need more algorithme about how to filter name 
 #
 I add my objects  in function , you can move this in JSON => DB folder
 and dont forget to import mediaFiles
-```
+```jsx
 import React from 'react';
 import I0 from "../images/eps/0.png";
 import I1 from "../images/eps/1.png";

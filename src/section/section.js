@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 //import Api from '../db/api.json';
 import '../styles/section.css';
-import axios from "axios";
 import Datai from '../db/datai.js';
 import Todos from '../components/Todos';
 export default class section extends Component {

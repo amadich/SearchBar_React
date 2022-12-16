@@ -1,5 +1,4 @@
 import React from "react";
-import { RouterProvider } from "react-router";
 import Header from './header/header';
 import Nav from './navigation/nav';
 import Section from "./section/section";
